@@ -9,29 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 03/2024 - 12/2024: **GEMIT Institute of HS Niederrhein**
+  * **Research Assistant** in Mönchengladbach
+  * **Project:** Development of the MXR Lab
+  * **Tasks:**
+    * Support with the development of the MXR Lab
+    * Manage VR-devices and accounts
+    * Development of interactive demonstrations to present MXR technologies clearly for students and pupils
+    * Conception and implementation of basic robot programming with a visual programming language for students and pupils
+    * Creation of demonstration for seminar with focus on IoT applications
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 05/2023 - 02/2024: **Department of Textile and Clothing Technology at HS Niederrhein**
+  * **Research Assistant** in Mönchengladbach
+  * **Project:** 5GARderobe
+  * **Tasks:**
+    * Planning, setting up and managing the IT infrastructure
+    * Administration and optimization of remote access solutions
+    * Creating technical documentation for processes and systems
+    * Supporting team members in the integration of their tasks
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 07/2020 - 09/2021: **Stausberg und Vosding GmbH**
+  * **Student Assistant** in Aachen
+  * **Tasks:**
+    * Image creation for visualization systems from various manufacturers
+    * Support in the creation of P&I flow diagrams
+    * Support in the creation of PLC programs
+    * Setting up sample circuits and test environments
+
+07/2020 - 09/2021: **Stausberg und Vosding GmbH**
+  * **Bachelorthesis** in Aachen
+  * **Topic:** Automation of a drinking water supply system with pumping station and elevated tank, as well as simulation using daily flow curves.
+  * Tasks:
+    * Image creation for visualization systems NICOS 2.0
+    * Programming the PLCs to control the fill level
+    * Simulation of the daily water consumption curves
+    * Simulation of the control process with Taylor process
+
+03/2019 - 07/2019: **Stausberg und Vosding GmbH**
+  * **Intern** in Aachen
+  * **Tasks:**
+    * Basis of PLC programming with Step7 and TIA Portal
+    * Programming and visualization of Riesler systems with PLC and panel from ABB
   
+Education
+======
+* Bachelor (B. Eng.) Electrical Engineering, FH Aachen, 2020
+
 Skills
 ======
 * Skill 1
@@ -41,24 +66,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
