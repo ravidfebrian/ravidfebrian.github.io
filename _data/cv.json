@@ -4,8 +4,7 @@
     "email": "ravid.ramadhan@gmail.com",
     "phone": "",
     "website": "https://ravidfebrian.github.io",
-    "summary": "As an accomplished automation engineer, I combine a solid foundation in electrical engineering from FH Aachen with extensive hands-on experience in PLC programming using Codesys, Step7, and TIA Portal.
-My expertise extends to visualizing complex automation systems with WinCC and NICOS 2.0, enabling me to design, develop, and optimize cutting-edge industrial control solutions with precision and efficiency. In addition, I have deepened my technical skill set as a research assistant in IT infrastructure, network engineering, and IoT projects. My strong organizational and communication abilities were further honed as chairperson of the KIA-Indonesian Community Aachen, where I led collaborative initiatives and managed diverse projects. I am confident that my unique blend of technical proficiency and leadership skills will make me a valuable asset to your team.",
+    "summary": "As an accomplished automation engineer, I combine a solid foundation in electrical engineering from FH Aachen with extensive hands-on experience in PLC programming using Codesys, Step7, and TIA Portal. My expertise extends to visualizing complex automation systems with WinCC and NICOS 2.0, enabling me to design, develop, and optimize cutting-edge industrial control solutions with precision and efficiency. In addition, I have deepened my technical skill set as a research assistant in IT infrastructure, network engineering, and IoT projects. My strong organizational and communication abilities were further honed as chairperson of the KIA-Indonesian Community Aachen, where I led collaborative initiatives and managed diverse projects. I am confident that my unique blend of technical proficiency and leadership skills will make me a valuable asset to your team.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -47,22 +46,21 @@ My expertise extends to visualizing complex automation systems with WinCC and NI
       "position": "Student Assistant",
       "startDate": "07/2020",
       "endDate": "09/2021",
-      "summary":
+      "summary": ""
     },
     {
       "company": "Stausberg und Vosding GmbH",
       "position": "Bachelorthesis",
       "startDate": "10/2019",
       "endDate": "07/2020",
-      "summary": "Topic: Automation of a drinking water supply system with pumping station and elevated tank, as well
-as simulation using daily flow curves."
+      "summary": "Topic: Automation of a drinking water supply system with pumping station and elevated tank, as well as simulation using daily flow curves."
     },
     {
       "company": "Stausberg und Vosding GmbH",
       "position": "Intern",
       "startDate": "03/2019",
       "endDate": "07/2019",
-      "summary":
+      "summary": ""
     }
   ],
   "education": [
