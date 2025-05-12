@@ -1,152 +1,109 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Ravid Febrian Ramadhan",
+    "email": "ravid.ramadhan@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ravidfebrian.github.io",
+    "summary": "As an accomplished automation engineer, I combine a solid foundation in electrical engineering from FH Aachen with extensive hands-on experience in PLC programming using Codesys, Step7, and TIA Portal.
+My expertise extends to visualizing complex automation systems with WinCC and NICOS 2.0, enabling me to design, develop, and optimize cutting-edge industrial control solutions with precision and efficiency. In addition, I have deepened my technical skill set as a research assistant in IT infrastructure, network engineering, and IoT projects. My strong organizational and communication abilities were further honed as chairperson of the KIA-Indonesian Community Aachen, where I led collaborative initiatives and managed diverse projects. I am confident that my unique blend of technical proficiency and leadership skills will make me a valuable asset to your team.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Aachen",
+      "countryCode": "DE",
+      "region": "North Rhine-Westphalia"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "Linkedin",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "http://www.linkedin.com/in/ravid-f-ramadhan"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ravidfebrian",
+        "url": "https://github.com/ravidfebrian"
       }
     ]
   },
-  "work": [],
+
+  "work": [
+    {
+      "company": "GEMIT Institute of HS Niederrhein",
+      "position": "Research Assistant",
+      "startDate": "03/2024",
+      "endDate": "12/2024",
+      "summary": "Project: Development of the MXR Lab"
+    },
+    {
+      "company": "Department of Textile and Clothing Technology at HS Niederrhein",
+      "position": "Research Assistant",
+      "startDate": "05/2023",
+      "endDate": "02/2024",
+      "summary": "Project: 5GARderobe"
+    },
+    {
+      "company": "Stausberg und Vosding GmbH",
+      "position": "Student Assistant",
+      "startDate": "07/2020",
+      "endDate": "09/2021",
+      "summary":
+    },
+    {
+      "company": "Stausberg und Vosding GmbH",
+      "position": "Bachelorthesis",
+      "startDate": "10/2019",
+      "endDate": "07/2020",
+      "summary": "Topic: Automation of a drinking water supply system with pumping station and elevated tank, as well
+as simulation using daily flow curves."
+    },
+    {
+      "company": "Stausberg und Vosding GmbH",
+      "position": "Intern",
+      "startDate": "03/2019",
+      "endDate": "07/2019",
+      "summary":
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "RWTH Aachen",
+      "area": "M.Sc. in Electrical and Information Engineering (Without degree)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "FH Aachen",
+      "area": "B.Eng. in Electrical Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "language": "Indonesian",
+      "fluency": "Mother tounge"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent in spoken and written"
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent in spoken and written"
+    }
+  ],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
