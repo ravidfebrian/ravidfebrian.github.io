@@ -15,11 +15,11 @@
       </div>
       {% endif %}
       
-      {% if cv.basics.phone %}
+      <!-- {% if cv.basics.phone %}
       <div class="cv-contact-item">
         <i class="fas fa-phone"></i> {{ cv.basics.phone }}
       </div>
-      {% endif %}
+      {% endif %} -->
       
       {% if cv.basics.website %}
       <div class="cv-contact-item">
@@ -168,6 +168,36 @@
         <div class="cv-item-content">
           <div class="cv-item-title">{{ language.language }}</div>
           <div class="cv-item-detail">{{ language.fluency }}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if cv.social.size > 0 %}
+  <!-- Social Engagements -->
+  <div class="cv-section">
+    <h2>Social Engagement</h2>
+    <ul class="cv-list">
+      {% for social in cv.social %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ social.position }}</div>
+          <div class="cv-item-date">{{ social.startDate }}{% if social.endDate %} - {{ social.endDate }}{% endif %}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ social.organization }}</div>
+          {% if social.summary %}
+          <div class="cv-item-detail">{{ social.summary }}</div>
+          {% endif %}
+          {% if social.highlights.size > 0 %}
+          <ul class="cv-highlights">
+            {% for highlight in social.highlights %}
+            <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
         </div>
       </li>
       {% endfor %}

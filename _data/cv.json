@@ -63,6 +63,7 @@
       "summary": ""
     }
   ],
+
   "education": [
     {
       "institution": "RWTH Aachen",
@@ -83,7 +84,25 @@
       "courses": []
     }
   ],
-  "skills": [],
+
+  "skills": [
+    {
+      "name": "Programming language",
+      "keywords": "C++, PLC programming language according to IEC 61131, Blueprint"
+    },
+    {
+      "name": "Software",
+      "keywords": "Microsoft Office, Codesys, TIA Portal, WinCC, Unreal Engine 5, Container Technology (Docker, Podman), Version Control (Git, Perforce), Bash Script, Labview, LTSpice"
+    },
+    {
+      "name": "Hardware",
+      "keywords": "Oscilloscope, Multimeter, Current clamps, Soldering tool"
+    },
+    {
+      "name": "Operating System",
+      "keywords": "Windows, Linux, MacOS"
+    }
+  ],
   "languages": [
     {
       "language": "Indonesian",
@@ -96,6 +115,22 @@
     {
       "language": "German",
       "fluency": "Fluent in spoken and written"
+    }
+  ],
+  "social":[
+    {
+      "organization": "KIA - Indonesian Community Aachen",
+      "position": "Head of the Committee",
+      "startDate": "12/2021",
+      "endDate": "12/2022",
+      "summary": ""
+    },
+    {
+      "organization": "KIA - Indonesian Community Aachen",
+      "position": "Documentation und Public Relations",
+      "startDate": "12/2020",
+      "endDate": "12/2021",
+      "summary": ""
     }
   ],
   "interests": [],
