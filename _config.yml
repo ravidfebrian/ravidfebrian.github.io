@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "contrast"
 title                    : "Ravid Febrian Ramadhan / ravidfebrian"
 title_separator          : "-"
 name                     : &name "Ravid Febrian Ramadhan"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Ravid Febrian Ramadhan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Automation Engineer, Open-source enthusiasts"
   location         : "Aachen"
   employer         : 
   uri              : # URL
