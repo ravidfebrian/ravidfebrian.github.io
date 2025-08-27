@@ -10,6 +10,8 @@ simulation-1: gu14V_gtnXc
 simulation-2: b8CdLfw9D2Q
 ---
 
+![thumbnails](../images/open-industry-project-codesys/thumbnails.png)
+
 # Introduction
 Industrial automation is everywhere around us—from packaging lines in factories to baggage handling systems at airports—and one of the most common elements in these systems is the conveyor belt. To truly understand how automation works in industries, I decided to create a conveyor belt simulation using Codesys together with resources from the Open Industry Project.
 
