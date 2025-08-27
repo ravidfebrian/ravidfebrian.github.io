@@ -95,8 +95,11 @@ By repeating this process for each component, I successfully linked the simulati
 
 ## Demos
 
+Project 1: [Github repo](https://github.com/ravidfebrian/Codesys-OpenIndustryProject-1)
 {% include youtubePlayer.html id=page.simulation-1 %}
 
+
+Project 2: [Github repo](https://github.com/ravidfebrian/Codesys-OpenIndustryProject-2)
 {% include youtubePlayer.html id=page.simulation-2 %}
 
 # Conclussion
